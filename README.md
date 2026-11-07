@@ -10,11 +10,10 @@ Vaga de estágio ou desenvolvedor back-end júnior, com foco em Java. Tenho inte
 - Rotina focada em melhorar na área de back-end, pretendo começar spring
 
 ## Tecnologias com as quais já tive contato
-Área    Tecnologias    Nível
-Back-end    Java    Básico, avançando para POO
-Banco de dados    SQL, PostgreSQL    Iniciante, praticando
-Front-end    HTML, CSS    Básico
-Ferramentas    Git, GitHub, VS Code    Em uso no dia a dia
+- Back-end: Java (básico, avançando para POO)
+- Banco de dados: SQL e PostgreSQL (iniciante, praticando)
+- Front-end: HTML e CSS (básico)
+- Ferramentas: Git, GitHub e VS Code (em uso no dia a dia)
 
 ## Meus repositórios
 Ainda sou iniciante, então meus projetos são simples e refletem meu aprendizado até aqui:
@@ -30,9 +29,9 @@ Ainda sou iniciante, então meus projetos são simples e refletem meu aprendizad
 - Pretendo cursar Ciência da Computação na Federal
 
 # Para onde quero ir
-Tenho curiosidade por cibersegurança e engenharia de IA, mas sigo aberto a novas áreas e oportunidades. Ninguém conhece o futuro, e estou aqui para aprender no caminho. 
+Tenho curiosidade por cibersegurança e engenharia de IA, mas sigo aberto a novas áreas e oportunidades. 
 
 # Contato
-E-mail: mthlnunes@gmail.com
-LinkedIn: em breve
+- E-mail: mthlnunes@gmail.com
+- LinkedIn: em breve
 
